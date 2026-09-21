@@ -1,8 +1,8 @@
-# 🍽️ Zomato Restaurant Analysis & Rating Prediction
+# 🍽️ Restaurant Analysis & Rating Prediction
 
 ## 📌 Project Overview
 
-This project performs an exploratory data analysis and machine learning analysis on the Zomato restaurant dataset.
+This project performs an exploratory data analysis and machine learning analysis on the restaurant dataset.
 
 The project focuses on understanding restaurant characteristics such as **location, cuisine, pricing, customer votes, table booking, and online delivery**, and investigates their relationship with restaurant ratings.
 
@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 ## 📂 Dataset
 
-The project uses the **Zomato restaurant dataset** containing information about restaurants, including:
+The project uses the ** restaurant dataset** containing information about restaurants, including:
 
 - Restaurant Name
 - Country Code
@@ -272,9 +272,9 @@ The analysis identifies relationships in the dataset but does not establish caus
 Model performance is specific to the available dataset and train-test split.
 
 # 📁 Project Structure
-Zomato-Restaurant-Analysis/
+Restaurant-Analysis/
 │
-├── Zomato_Restaurant_Analysis.ipynb
+├── Restaurant_Analysis.ipynb
 ├── Dataset.csv
 ├── README.md
 └── images/
@@ -310,7 +310,7 @@ Scikit-learn
 
 # ⭐ Project Highlights
 
-Dataset: Zomato Restaurant Dataset
+Dataset: Restaurant Dataset
 Task: Restaurant Rating Prediction
 Problem Type: Regression
 Best Test R²: 0.9629
