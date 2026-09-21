@@ -284,7 +284,7 @@ Restaurant-Analysis/
 1. Clone the repository
 git clone <your-github-repository-url>
 2. Navigate to the project directory
-cd Zomato-Restaurant-Analysis
+cd Restaurant-Analysis
 3. Install required libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
 4. Launch Jupyter Notebook
